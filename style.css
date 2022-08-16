@@ -38,6 +38,7 @@ nav ul li {
 nav a {
     text-decoration: none;
     color: black;
+   transition: background-color 1s ease .2s, border 1s ease .2s, color 1s ease .2s;
 }
 header {
     background-color: rgb(225, 255, 0);
@@ -51,6 +52,8 @@ footer {
 }
 a:hover {
     background-color: blue;
+    color: aliceblue;
+    border: blue 1px solid;
 }
 .protocol {
     margin: 0px;
