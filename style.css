@@ -1,0 +1,80 @@
+h1 {
+   text-align: center; 
+}
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.index3 {
+    text-align:center;
+    color: black;
+    background-color:rgb(255, 0, 0);
+     border:solid rgb(0, 21, 255);
+     border-radius: 25px;
+     border-width: 4px;
+}
+main {
+    margin: 8px;
+}
+input[type=text] {
+ width: 200px;
+ margin-left: 10px;
+}
+.index {
+    margin: 0;
+    background-image: url("http://demo.leebrown.net/Short%20Street%20Cakes/grass.jpg")
+}
+img {
+    width: 700px;
+}
+nav ul {
+ list-style: none;
+ float: right;
+}
+nav ul li {
+    float: left;
+    width: 100px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+header {
+    background-color: rgb(225, 255, 0);
+    height: 50px;
+}
+footer {
+    margin: 8px;
+}
+.form {
+    margin:0px;
+}
+a:hover {
+    text-decoration: underline;
+}
+.protocol {
+    margin: 0px;
+    text-align: center;
+    background-size: cover;
+    background-image: url("http://demo.leebrown.net/Short%20Street%20Cakes/grass.jpg")
+}
+.blog {
+    text-align: center;
+    background-image: url("http://demo.leebrown.net/Short%20Street%20Cakes/grass.jpg")
+}
+.forms {
+    text-align: center;
+}
+.details {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+.form {
+    text-align: center;
+    background-image: url("http://demo.leebrown.net/Short%20Street%20Cakes/grass.jpg")
+}
+p {
+    font-weight: 615;
+}
