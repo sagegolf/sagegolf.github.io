@@ -54,6 +54,7 @@ a:hover {
     background-color: blue;
     color: aliceblue;
     border: blue 1px solid;
+    text-decoration: underline;
 }
 .protocol {
     margin: 0px;
